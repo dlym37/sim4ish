@@ -27,7 +27,7 @@ export default class App extends Component {
 
 
 
-          <div id='whatevs'>This section is for James
+          <div id='whatevs'>This section is for James {/*Core 54C, 54J*/}
             <div className='green'></div>
             <div className='yellow'></div>
             <div className='red'></div>
@@ -48,7 +48,7 @@ export default class App extends Component {
           <form>
             <h4 className="close">X</h4>
             <span>Question</span>
-            <input type="text" />
+            <input type="text" /> {/*Core 54G*/}
             <span>Animal it's about</span>
             <input type="text" />
             <span>Difficulty</span>
